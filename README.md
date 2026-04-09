@@ -1,6 +1,8 @@
 # Payroll Blaster🚀
 
-Simple Python SMTP script for sending batch emails. Works on **Android (Termux)** and **PC (Windows/Mac/Linux)**.
+Simple Python SMTP script for sending batch emails.
+
+Works on **Android (Termux)** and **PC (Windows/Mac/Linux)**.
 
 ## Features⚒️
 - Random subjects and message bodies
